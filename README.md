@@ -8,7 +8,11 @@ This repository showcases my journey of learning **Manual Testing** and **Test A
   - Test cases for OrangeHRM & DemoQA  
   - Bug reports with severity/priority labels  
   - SDLC vs STLC notes  
-- *(Week2, Week3… will be added as I progress)*  
+- **[Week2](./Week2) → Exploratory Testing, Bug Investigation & Regression Testing**  
+  - Daily activities including exploratory testing sessions on OrangeHRM  
+  - Enhanced and detailed bug reports with severity/priority labels 
+  - Master test case template and regression checklist 
+- *(Week3, Week4… will be added as I progress)*  
 
 ## 🛠️ Skills Demonstrated
 - Writing clear and structured **Test Cases**  
