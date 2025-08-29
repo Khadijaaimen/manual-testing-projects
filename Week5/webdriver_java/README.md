@@ -38,7 +38,8 @@ Automated Selenium + TestNG test suite for **The Internet (herokuapp)** applicat
 - Screenshots on failure: `resources/screenshots/`
 
 **5. Folder Structure:**
-`Week5/
+```├── src/
+Week5/
 └── webdriver-java/
     ├── src/
     │   ├── main/java   -> Base classes, utilities
@@ -47,7 +48,7 @@ Automated Selenium + TestNG test suite for **The Internet (herokuapp)** applicat
     ├── reports/        -> HTML test reports
     ├── pom.xml
     └── testng.xml`
-
+```
 --- 
 ## Sample Reports
 - **HTML report example:** [Week5/webdriver-java/reports/index.html](Week5/webdriver-java/reports/index.html)  
