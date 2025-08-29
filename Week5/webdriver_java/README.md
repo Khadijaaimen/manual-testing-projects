@@ -56,7 +56,7 @@ Week5/
 
 ---
 
-## CI Integration (Optional)
+## CI Integration
 - GitHub Actions workflow automatically runs tests on push or pull request.  
 - Reports are uploaded as artifacts in GitHub Actions.
 
