@@ -1,17 +1,19 @@
 # Manual Testing Project - Week 5
 
-This repository contains all my Manual Testing deliverables, including a **Week 5 Selenium Automation Project**. Each week demonstrates practical testing skills, test cases, bug reporting, and automation.
+This folder contains all the artifacts created during **Week 5** of the Manual Testing Roadmap.
+It covers Selenium WebDriver automation in Java, including alerts, context menu, file upload tests, headless execution, and report generation.
 
 ---
 
-Automated Selenium + TestNG test suite for **The Internet (herokuapp)** application.  
+## Applications Used
+- [The Internet (herokuapp)](http://the-internet.herokuapp.com/) application.  
 
 ## Features
 - Alerts, Context Menu, and File Upload tests
 - Headless browser execution option
 - Screenshots captured on test failures
 - HTML test reports generated after execution
-- Optional CI integration via GitHub Actions
+- CI integration via GitHub Actions
 
 ---
 
