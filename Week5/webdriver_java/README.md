@@ -28,8 +28,7 @@ Automated Selenium + TestNG test suite for **The Internet (herokuapp)** applicat
 ## How to Run Week 5 Automation Tests
 
 **1. Navigate to the Week5 folder in your repo:**
-```bash
-cd Week5/webdriver-java
+`cd Week5/webdriver-java`
 
 **2. Run tests normally:**  
 `mvn test`
