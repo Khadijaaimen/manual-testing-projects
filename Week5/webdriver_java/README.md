@@ -7,7 +7,6 @@ This repository contains all my Manual Testing deliverables, including a **Week 
 Automated Selenium + TestNG test suite for **The Internet (herokuapp)** application.  
 
 ## Features
-
 - Alerts, Context Menu, and File Upload tests
 - Headless browser execution option
 - Screenshots captured on test failures
@@ -17,7 +16,6 @@ Automated Selenium + TestNG test suite for **The Internet (herokuapp)** applicat
 ---
 
 ## Prerequisites
-
 - Java 11+
 - Maven
 - Chrome browser
@@ -26,7 +24,6 @@ Automated Selenium + TestNG test suite for **The Internet (herokuapp)** applicat
 ---
 
 ## How to Run Week 5 Automation Tests
-
 **1. Navigate to the Week5 folder in your repo:**
 `cd Week5/webdriver-java`
 
@@ -41,7 +38,7 @@ Automated Selenium + TestNG test suite for **The Internet (herokuapp)** applicat
 - Screenshots on failure: `resources/screenshots/`
 
 **5. Folder Structure:**
-Week5/
+`Week5/
 └── webdriver-java/
     ├── src/
     │   ├── main/java   -> Base classes, utilities
@@ -49,25 +46,22 @@ Week5/
     ├── resources/      -> chromedriver.exe, screenshots
     ├── reports/        -> HTML test reports
     ├── pom.xml
-    └── testng.xml
+    └── testng.xml`
 
 --- 
 ## Sample Reports
-
 - **HTML report example:** [Week5/webdriver-java/reports/index.html](Week5/webdriver-java/reports/index.html)  
 - **Screenshots folder:** `Week5/webdriver-java/resources/screenshots/`
 
 ---
 
 ## CI Integration (Optional)
-
 - GitHub Actions workflow automatically runs tests on push or pull request.  
 - Reports are uploaded as artifacts in GitHub Actions.
 
 ---
 
 ## Notes
-
 - All tests are independent and can be run individually via `testng.xml`.  
 - Headless execution is useful for CI pipelines or running tests without opening the browser.
 
