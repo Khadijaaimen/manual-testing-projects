@@ -40,7 +40,7 @@ Each week folder contains notes, templates, and deliverables aligned to the road
 
 ---
 
-## 🗺6‑Week Roadmap (from the workbook)
+## 6‑Week Roadmap (from the workbook)
 **Week 1 – Foundations**
 - Manual testing fundamentals, SDLC vs STLC
 - Test case writing basics (login feature)
@@ -177,4 +177,4 @@ This repo shows structured growth from **manual → automation** with real artef
 ---
 
 ## Acknowledgements
-Thanks to the maintainers of the demo applications and the authors of the courses and tutorials referenced here.
+Thanks to the maintainers of the demo applications and the authors of the courses and tutorials referenced here. 🙌
