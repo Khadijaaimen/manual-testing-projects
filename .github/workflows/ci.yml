@@ -1,4 +1,4 @@
-name: WebDriver Java CI
+name: Java CI with Maven
 
 on: [push, pull_request]
 
@@ -16,8 +16,8 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      - name: Build with Maven (Week5 project)
-        run: mvn -B package --file Week5/webdriver-java/pom.xml
+      - name: Build with Maven
+        run: mvn -B package --file pom.xml
 
-      - name: Run tests in headless mode
-        run: mvn test -f Week5/webdriver-java/pom.xml -Dheadless=true
+      - name: Run tests
+        run: mvn test
