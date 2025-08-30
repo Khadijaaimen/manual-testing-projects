@@ -8,8 +8,8 @@ jobs:
 
     defaults:
       run:
-        working-directory: Week5/webdriver-java
-        
+        working-directory: Week5/webdriver_java
+
     steps:
       - uses: actions/checkout@v3
 
