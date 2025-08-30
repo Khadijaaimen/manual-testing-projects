@@ -4,7 +4,7 @@ Welcome to my **Software Quality Assurance (SQA) Portfolio**. This repository do
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 Each week folder contains notes, templates, and deliverables aligned to the roadmap.
 
 - **[Week1](./Week1) – Manual Testing Fundamentals**
@@ -40,7 +40,7 @@ Each week folder contains notes, templates, and deliverables aligned to the road
 
 ---
 
-## 🗺️ 6‑Week Roadmap (from the workbook)
+## 🗺6‑Week Roadmap (from the workbook)
 **Week 1 – Foundations**
 - Manual testing fundamentals, SDLC vs STLC
 - Test case writing basics (login feature)
@@ -84,7 +84,7 @@ Each week folder contains notes, templates, and deliverables aligned to the road
 
 ---
 
-## 🧪 Projects Tested (practice/demo apps)
+## Projects Tested (practice/demo apps)
 - **OrangeHRM Demo:** https://opensource-demo.orangehrmlive.com/
 - **DemoQA:** https://demoqa.com/
 - **The Internet (Herokuapp):** https://the-internet.herokuapp.com/
@@ -96,7 +96,7 @@ Each week folder contains notes, templates, and deliverables aligned to the road
 
 ---
 
-## 🧰 Skills & Tools Demonstrated
+## Skills & Tools Demonstrated
 - **Manual QA:** test design (EP/BVA/decision tables), exploratory testing, defect reporting
 - **Documentation:** master templates, regression checklists, QA metrics & reports
 - **Test Management:** TestRail/TestLink (runs, evidence, reporting)
@@ -107,7 +107,7 @@ Each week folder contains notes, templates, and deliverables aligned to the road
 
 ---
 
-## ▶️ How to Run the Automation (Week5)
+## How to Run the Automation (Week5)
 Inside `Week5/webdriver-java` (or your automation project folder):
 
 ```bash
@@ -126,7 +126,7 @@ mvn test -Dheadless=true
 
 ---
 
-## 📊 QA Metrics (sample)
+## QA Metrics (sample)
 - Test case pass rate by run
 - Defect trend (opened/closed per cycle)
 - Defect severity distribution
@@ -136,7 +136,7 @@ mvn test -Dheadless=true
 
 ---
 
-## 📁 Suggested Folder Structure
+## Suggested Folder Structure
 ```
 manual-testing-projects/
 ├─ Week1/
@@ -152,7 +152,7 @@ manual-testing-projects/
 
 ---
 
-## 📚 Key Learning Resources
+## Key Learning Resources
 - Selenium WebDriver with Java (TAU)
 - Foundations of Test Automation (Angie Jones, TAU)
 - Exploratory Testing (TAU)
@@ -166,7 +166,7 @@ manual-testing-projects/
 
 ---
 
-## 🎯 Purpose & How Recruiters Can Review
+## Purpose & How Recruiters Can Review
 This repo shows structured growth from **manual → automation** with real artefacts:
 - Start with clean documentation (test cases, bugs, checklists)
 - Add metrics, management, and CI thinking
@@ -176,5 +176,5 @@ This repo shows structured growth from **manual → automation** with real artef
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 Thanks to the maintainers of the demo applications and the authors of the courses and tutorials referenced here.
