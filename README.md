@@ -139,6 +139,9 @@ mvn test -Dheadless=true
 ## Suggested Folder Structure
 ```
 manual-testing-projects/
+├─ .github/
+│  └─ workflows/
+│     └─ ci.yml  
 ├─ Week1/
 ├─ Week2/
 ├─ Week3/
