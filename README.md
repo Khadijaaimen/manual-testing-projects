@@ -4,11 +4,6 @@ Welcome to my **Software Quality Assurance (SQA) Portfolio**. This repository do
 
 ---
 
-## 🔎 Short description (for GitHub “About”)
-**A 6‑week manual‑to‑automation QA portfolio:** test cases, bug reports, ISTQB prep, TestRail metrics, Selenium+TestNG, API tests, CI, and reports.
-
----
-
 ## 📂 Repository Structure
 Each week folder contains notes, templates, and deliverables aligned to the roadmap.
 
