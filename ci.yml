@@ -12,7 +12,7 @@ jobs:
 
       - name: Show repo contents
         run: |
-          echo "Listing files to debug path issue..."
+          echo "Listing files..."
           ls -R
 
       - name: Set up JDK 11
@@ -22,7 +22,9 @@ jobs:
           distribution: 'temurin'
 
       - name: Build with Maven
-        run: mvn -B package -f Week5/webdriver_java/pom.xml
+        working-directory: Week5/webdriver_java
+        run: mvn -B package
 
       - name: Run tests
-        run: mvn -f Week5/webdriver_java/pom.xml test
+        working-directory: Week5/webdriver_java
+        run: mvn test
